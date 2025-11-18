@@ -1,0 +1,1 @@
+# ss-trends-doc-reader
